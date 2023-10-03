@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="301.0" prefWidth="454.0" style="-fx-background-color: #00AAE4;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1">
+   <children>
+      <TextField id="txtNombre" layoutX="112.0" layoutY="110.0" prefHeight="26.0" prefWidth="318.0" promptText="Jose Aquilino" />
+      <TextField id="txtApellidos" layoutX="112.0" layoutY="151.0" prefHeight="26.0" prefWidth="318.0" promptText="Covián Ornia" />
+      <Label id="lblNombre" layoutX="53.0" layoutY="114.0" text="Nombre" />
+      <Label id="lblApellidos" layoutX="53.0" layoutY="155.0" text="Apelllidos" />
+   </children>
+</AnchorPane>
